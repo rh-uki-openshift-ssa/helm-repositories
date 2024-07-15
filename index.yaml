@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  genai-retrieval-augmented-generation:
+  - apiVersion: v2
+    appVersion: 1.0.0
+    created: "2024-07-15T20:41:23.954001+01:00"
+    description: A Helm chart for Kubernetes
+    digest: 6d031ded89f765800495bd078b72b59a0042acf39b85be43f270c8189aac760b
+    name: genai-retrieval-augmented-generation
+    type: application
+    urls:
+    - https://github.com/rh-uki-openshift-ssa/helm-repositories.git/genai-retrieval-augmented-generation-0.1.0.tgz
+    version: 0.1.0
+generated: "2024-07-15T20:41:23.953195+01:00"
